@@ -1,4 +1,4 @@
-# RoyanAlQois_F55121052_B_UAS_PAA
+# RoyanAlQois_F55121052_B_UAS_PAA2
 1. Analisis Algoritma Bubble Sort dan Insertion Sort
 
 Analisis Algoritma:
